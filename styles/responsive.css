@@ -14,4 +14,14 @@
     .descricao{
         width: 80%;
     }
+
+}
+
+@media screen and (min-width: 701px){
+    
+    .logoHorrorflix{
+        border: none;
+        width: 18%;
+        margin: 8px;
+    }
 }

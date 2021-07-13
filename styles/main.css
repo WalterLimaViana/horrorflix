@@ -76,12 +76,14 @@ header nav a:hover{
 
     cursor: pointer;
     transition: .3s ease all;
+    
 
 }
 
 .botao:hover{
     background-color:white;
     color: black;
+   
 }
 
 .botao i{
@@ -111,4 +113,25 @@ header nav a:hover{
 .subtitulo{
     margin: 1%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.logoHorrorflix{
+    border: none;
+    width: 25%;
+    margin: 8px;
+    
+}
+
+.descricao{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.assistaAgora{
+    text-decoration: none;
+    color: white;
+}
+
+.assistaAgora:hover{
+    color: black;
+       
 }
